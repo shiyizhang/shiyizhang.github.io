@@ -24,6 +24,7 @@ On the other hand, I start understanding the construction behind jekyll more, sa
 
 Reminder: 
 here are the stuffs I need to complete by the end of Feb or mid March:
+
 * finish Udemy web development class,( section 4, 10, 11 .... and finish the assignment.) by the end of this month
 * upload these on github website ( by the end of this month) 
 * finish Andriod development class, and publish 1 app in the app store. ( by the mid of feb, and publish - mid march)
