@@ -6,6 +6,7 @@ title: Working on my website
 I need to put more time into coding and studying. I wish I could have 30 hours per day. 
 
 things I need to do tomorrow: 
+
 1. complete at least one section of DevTips website building video (1.5hour)
 2. complete the reaction game (30mins)
 3. start learning JavaScript ( 30mins) 
