@@ -1,0 +1,59 @@
+header 
+    height: 450px
+    background: url(../img/BannanSUCS.png) center center 
+    background-size: cover
+    
+    .logo
+        margin: 10px 10px 10px 10px 
+        float: left
+        +size(50px)
+        background: #999
+        
+        path
+            fill: rgba(0,0,0,0.4)
+        
+    nav
+        float: right
+        margin: 30px 30px 0 0
+        a
+            
+            display: inline-block
+            margin-left: 20px
+            
+            color: white
+            font:
+                weight: 700
+                size: 20px
+            text-transform: uppercase
+                
+            &:hover
+                color: rgba(0,0,0,1)
+    h1 
+        
+        text-align: center
+        text-transform: uppercase
+        font:
+            size: 48px
+            weight: 700
+        color: white
+        margin-bottom: 20px
+        letter-spacing: 0.05em
+        clear: both
+        padding: 100px
+        
+        span
+            display: inline-block
+            padding: 0.2em 0.5em
+            border: white solid 10px
+           
+    .kicker 
+        
+        text-align: center
+        font:
+            size: 18px
+            wright: 300
+        color: white
+        text-transform: uppercase
+        letter-spacing: 0.2em
+        line-height: 2
+        
